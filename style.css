@@ -1,3 +1,20 @@
 body{
-    background-color: aquamarine;
+    background-color:#33E7FF;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+p {
+    border: 2px dashed #0090A3;
+    width: 200px;
+    height: 150px;
+    padding: 4px;
+    background-color: #00B4CC;
+    float: left;
+    margin-right: 20px;
+   
+}
+p::first-letter{
+    font-size: 30px;
 }
